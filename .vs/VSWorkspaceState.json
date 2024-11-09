@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\checkpoint03-master",
+    "\\checkpoint03-master\\CP3.API",
+    "\\checkpoint03-master\\CP3.Application",
+    "\\checkpoint03-master\\CP3.Application\\Dtos",
+    "\\checkpoint03-master\\CP3.Domain",
+    "\\checkpoint03-master\\CP3.Domain\\Entities",
+    "\\checkpoint03-master\\CP3.Domain\\Interfaces",
+    "\\checkpoint03-master\\CP3.IoC",
+    "\\checkpoint03-master\\CP3.Tests"
+  ],
+  "SelectedNode": "\\checkpoint03-master\\CP3.Application\\Dtos\\BarcoDto.cs",
+  "PreviewInSolutionExplorer": false
+}
